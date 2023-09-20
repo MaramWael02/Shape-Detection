@@ -56,7 +56,7 @@ The inference code performs the following actions:
 
 * image_path = 'shape.jpg': Specifies the path to the input image ('shape.jpg') on which object detection will be performed.
 * model.predict(...): Initiates the inference process, where the model processes the input image and detects objects. The detected objects are annotated with bounding boxes, and the annotated image can be saved and displayed.
-* The resulting image after feeding it into the model
+* The resulting image after feeding the input image 'shape.jpg' into the model
   
 ![shape](https://github.com/MaramWael02/Shape-Detection/assets/95209939/9671e1af-337f-4f10-bf56-2048a7e7c47f)
 
